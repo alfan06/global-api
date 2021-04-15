@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Workshop Amazon Web Services (AWS) Untuk para dosen Jurusan Teknologi Informasi Politeknik Negeri Malang",
+      "body": "Jumat (24/1/2020), Jurusan Teknologi Informasi Politek Negeri Malang (JTI Polinema) Polinema. Workshop ini diadakan untuk menunjang performa dan"
+    },
+    {
+      "userId": 1,
+      "id": 1618421323320,
+      "title": "Alfan Noufal Nasruddin Mengadakan workshop tentang Start-Up",
+      "body": "CEO Google Alfan Noufal Nasruddin akan mengadakan workshop tentang start-up."
+    }
+  ]
+}
